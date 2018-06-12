@@ -1,0 +1,24 @@
+{
+	"id": "FREEDOOM",
+	"name": "Freedoom",
+	"website": "https://freedoom.github.io/",
+	"repository": "https://github.com/freedoom/freedoom",
+	"screenshots": [
+		"https://freedoom.github.io/img/screenshots/phase1-0.11_01.png",
+		"https://freedoom.github.io/img/screenshots/phase1-0.11_02.png",
+		"https://freedoom.github.io/img/screenshots/phase1-0.11_03.png",
+		"https://freedoom.github.io/img/screenshots/phase1-0.11_04.png",
+		"https://freedoom.github.io/img/screenshots/phase1-0.11_05.png",
+		"https://freedoom.github.io/img/screenshots/phase1-0.11_06.png",
+		"https://freedoom.github.io/img/screenshots/phase1-0.11_07.png",
+		"https://freedoom.github.io/img/screenshots/phase1-0.11_08.png",
+		"https://freedoom.github.io/img/screenshots/phase2-0.11_01.png",
+		"https://freedoom.github.io/img/screenshots/phase2-0.11_02.png",
+		"https://freedoom.github.io/img/screenshots/phase2-0.11_03.png",
+		"https://freedoom.github.io/img/screenshots/phase2-0.11_04.png",
+		"https://freedoom.github.io/img/screenshots/phase2-0.11_05.png",
+		"https://freedoom.github.io/img/screenshots/phase2-0.11_06.png",
+		"https://freedoom.github.io/img/screenshots/phase2-0.11_07.png",
+		"https://freedoom.github.io/img/screenshots/phase2-0.11_08.png"
+	]
+}
