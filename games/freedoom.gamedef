@@ -1,6 +1,7 @@
 {
 	"id": "FREEDOOM",
 	"name": "Freedoom",
+	"version": "0.11.3 (GZDoom 3.4.1)",
 	"website": "https://freedoom.github.io/",
 	"repository": "https://github.com/freedoom/freedoom",
 	"screenshots": [
@@ -20,5 +21,11 @@
 		"https://freedoom.github.io/img/screenshots/phase2-0.11_06.png",
 		"https://freedoom.github.io/img/screenshots/phase2-0.11_07.png",
 		"https://freedoom.github.io/img/screenshots/phase2-0.11_08.png"
-	]
+	],
+	"download": "https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/bin/Freedoom.zip",
+	"launch":
+	{
+		"Freedoom 1": "gzdoom freedoom1.wad",
+		"Freedoom 2": "gzdoom freedoom2.wad"
+	}
 }
