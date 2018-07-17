@@ -4,6 +4,7 @@
 	"version": "0.11.3 (GZDoom 3.4.1)",
 	"website": "https://freedoom.github.io/",
 	"repository": "https://github.com/freedoom/freedoom",
+	"description": "<p>The Freedoom project aims to create a complete <a href='https://www.gnu.org/philosophy/free-sw.html' target='_blank'>free content</a> first person shooter game based on the <i>Doom</i> engine.</p><p><i>Phase 1</i> is the first part of the single-player game, containing four chapters which are nine levels each, smoothly paced for beginner players. It is compatible with mods for the original <i>Doom</i> and <i>The Ultimate Doom</i>.</p><p><i>Phase 2</i> is the second major part of the single-player game, a massive 32-level chapter expanding upon the same concepts present in Phase 1, as well as containing additional monsters and the double-barreled shotgun! The levels in this game tend to demand more skillful play than the previous chapters. It is compatible with mods for <i>Doom II</i>.</p>",
 	"screenshots": [
 		"https://freedoom.github.io/img/screenshots/phase1-0.11_01.png",
 		"https://freedoom.github.io/img/screenshots/phase1-0.11_02.png",
@@ -25,7 +26,7 @@
 	"download": "https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/bin/Freedoom.zip",
 	"launch":
 	{
-		"Freedoom 1": "gzdoom freedoom1.wad",
-		"Freedoom 2": "gzdoom freedoom2.wad"
+		"Freedoom: Phase 1": {"cmd": "gzdoom", "args": ["-iwad", "freedoom1.wad"]},
+		"Freedoom: Phase 2": {"cmd": "gzdoom", "args": ["-iwad", "freedoom2.wad"]}
 	}
 }
