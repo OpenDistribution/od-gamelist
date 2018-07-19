@@ -1,6 +1,18 @@
 {
 	"id": "2048",
 	"name": "2048",
+	"license": "MIT",
+	"version": "ac03b1f01628038039b74b67f2e284b233bd143e",
+	"description": "<p>A small clone of <a href='https://play.google.com/store/apps/details?id=com.veewo.a1024' target='_blank'>1024</a>, based on <a href='http://saming.fr/p/2048/' target='_blank'>Saming's 2048</a> (also a clone).</p>",
 	"website": "https://gabrielecirulli.github.io/2048/",
-	"repository": "https://github.com/gabrielecirulli/2048"
+	"repository": "https://github.com/gabrielecirulli/2048",
+	"issues": "https://github.com/gabrielecirulli/2048/issues",
+	"download": "https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/bin/2048.zip",
+	"screenshots": [
+		"https://cloud.githubusercontent.com/assets/1175750/8614312/280e5dc2-26f1-11e5-9f1f-5891c3ca8b26.png"
+	],
+	"launch":
+	{
+		"2048": {"page": "index.html"}
+	}
 }

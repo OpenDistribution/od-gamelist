@@ -1,0 +1,6 @@
+{
+	"id": "LARGEDOWNLOADTEST",
+	"name": "Large File Download Test With Stupidly Long Name",
+	"version": "1.0.0",
+	"download": "https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/bin/LargeFileTest.zip"
+}
