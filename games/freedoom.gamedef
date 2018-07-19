@@ -27,6 +27,8 @@
 		"https://freedoom.github.io/img/screenshots/phase2-0.11_08.png"
 	],
 	"download": "https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/bin/Freedoom.zip",
+	"downloadsizeinbytes": "26859945",
+	"extractedsizeinbytes": "68488638",
 	"launch":
 	{
 		"Freedoom: Phase 1": {"cmd": "gzdoom", "args": ["-iwad", "freedoom1.wad"]},

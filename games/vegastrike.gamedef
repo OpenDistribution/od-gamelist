@@ -51,7 +51,8 @@
 	"manual": "https://wiki.vega-strike.org/Manual",
 	"donate": "http://vegastrike.sourceforge.net/updates/donation.html",
 	"download": "https://github.com/OpenDistribution/od-gamelist/releases/download/v0.2.0/VegaStrike.zip",
-	"downloadsizeinbytes": "1421259472",
+	"downloadsizeinbytes": "724446301",
+	"extractedsizeinbytes": "1421259472",
 	"news": "http://vegastrike.sourceforge.net/devblog/?feed=rss2",
 	"launch":
 	{

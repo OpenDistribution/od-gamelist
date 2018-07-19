@@ -8,6 +8,8 @@
 	"repository": "https://github.com/gabrielecirulli/2048",
 	"issues": "https://github.com/gabrielecirulli/2048/issues",
 	"download": "https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/bin/2048.zip",
+	"downloadsizeinbytes": "329912",
+	"extractedsizeinbytes": "608186",
 	"screenshots": [
 		"https://cloud.githubusercontent.com/assets/1175750/8614312/280e5dc2-26f1-11e5-9f1f-5891c3ca8b26.png"
 	],
