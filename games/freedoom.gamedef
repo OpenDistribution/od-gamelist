@@ -36,6 +36,16 @@
 			"download": "https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/bin/Freedoom-windows-x64.zip",
 			"downloadsizeinbytes": "27742318",
 			"extractedsizeinbytes": "70381011"
+		},
+		"linux-x32": {
+			"download": "https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/bin/Freedoom-linux-x32.zip",
+			"downloadsizeinbytes": "27670133",
+			"extractedsizeinbytes": "71165386"
+		},
+		"linux-x64": {
+			"download": "https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/bin/Freedoom-linux-x64.zip",
+			"downloadsizeinbytes": "27653946",
+			"extractedsizeinbytes": "73310090"
 		}
 	},
 	"launch":

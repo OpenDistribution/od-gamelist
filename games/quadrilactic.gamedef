@@ -1,0 +1,22 @@
+{
+	"id": "QUADRILACTIC",
+	"name": "Quadrilactic",
+	"license": "Apache-2.0",
+	"version": "4f25d3ec825e17b0054ffada9933081549d0a4d7",
+	"description": "<p>Bounce, jump and platform through space as everyone's favorite polygon. Quadrilactic is a simple browser based game about a quadrilateral that has gone intergalactic.</p>",
+	"website": "http://bencoveney.github.io/Quadrilactic/",
+	"repository": "https://github.com/bencoveney/Quadrilactic",
+	"issues": "https://github.com/bencoveney/Quadrilactic/issues",
+	"download": "https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/bin/Quadrilactic.zip",
+	"downloadsizeinbytes": "32774726",
+	"extractedsizeinbytes": "34715496",
+	"screenshots": [
+		"https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/shots/Quadrilactic/Example1.png",
+		"https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/shots/Quadrilactic/Example2.png",
+		"https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/shots/Quadrilactic/Example3.png"
+	],
+	"launch":
+	{
+		"Quadrilactic": {"page": "index.html"}
+	}
+}
