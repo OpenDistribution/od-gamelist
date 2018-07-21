@@ -50,10 +50,14 @@
 	"wiki": "https://wiki.vega-strike.org/Main_Page",
 	"manual": "https://wiki.vega-strike.org/Manual",
 	"donate": "http://vegastrike.sourceforge.net/updates/donation.html",
-	"download": "https://github.com/OpenDistribution/od-gamelist/releases/download/v0.2.0/VegaStrike.zip",
-	"downloadsizeinbytes": "724446301",
-	"extractedsizeinbytes": "1421259472",
 	"news": "http://vegastrike.sourceforge.net/devblog/?feed=rss2",
+	"platforms" : {
+		"win32": {
+			"download": "https://github.com/OpenDistribution/od-gamelist/releases/download/v0.2.0/VegaStrike.zip",
+			"downloadsizeinbytes": "724446301",
+			"extractedsizeinbytes": "1421259472"
+		}
+	},
 	"launch":
 	{
 		"Vega Strike: Upon the Coldest Sea": {"cmd": "vegastrike", "args": []}

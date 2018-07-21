@@ -2,7 +2,7 @@
 	"id": "FREEDOOM",
 	"name": "Freedoom",
 	"license": "BSD-3-Clause",
-	"version": "0.11.3 (GZDoom 3.4.1)",
+	"version": "0.11.3 (GZDoom 3.4.1)  ",
 	"website": "https://freedoom.github.io/",
 	"community": "https://www.doomworld.com/forum/17-freedoom/",
 	"repository": "https://github.com/freedoom/freedoom",
@@ -26,12 +26,21 @@
 		"https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/shots/Freedoom/phase2-0.11_07.png",
 		"https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/shots/Freedoom/phase2-0.11_08.png"
 	],
-	"download": "https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/bin/Freedoom.zip",
-	"downloadsizeinbytes": "26859945",
-	"extractedsizeinbytes": "68488638",
+	"platforms" : {
+		"windows-x32": {
+			"download": "https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/bin/Freedoom-windows-x32.zip",
+			"downloadsizeinbytes": "26860111",
+			"extractedsizeinbytes": "68473402"
+		},
+		"windows-x64": {
+			"download": "https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/bin/Freedoom-windows-x64.zip",
+			"downloadsizeinbytes": "27742318",
+			"extractedsizeinbytes": "70381011"
+		}
+	},
 	"launch":
 	{
-		"Freedoom: Phase 1": {"cmd": "gzdoom", "args": ["-iwad", "freedoom1.wad"]},
-		"Freedoom: Phase 2": {"cmd": "gzdoom", "args": ["-iwad", "freedoom2.wad"]}
+		"Freedoom: Phase 1": {"cmd": "gzdoom", "args": ["-iwad", "freedoom/freedoom1.wad"]},
+		"Freedoom: Phase 2": {"cmd": "gzdoom", "args": ["-iwad", "freedoom/freedoom2.wad"]}
 	}
 }
