@@ -52,7 +52,7 @@
 	"donate": "http://vegastrike.sourceforge.net/updates/donation.html",
 	"news": "http://vegastrike.sourceforge.net/devblog/?feed=rss2",
 	"platforms" : {
-		"win32": {
+		"windows-x86": {
 			"download": "https://github.com/OpenDistribution/od-gamelist/releases/download/v0.2.0/VegaStrike.zip",
 			"downloadsizeinbytes": "724446301",
 			"extractedsizeinbytes": "1421259472"

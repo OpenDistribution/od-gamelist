@@ -27,7 +27,7 @@
 		"https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/shots/Freedoom/phase2-0.11_08.png"
 	],
 	"platforms" : {
-		"windows-x32": {
+		"windows-x86": {
 			"download": "https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/bin/Freedoom-windows-x32.zip",
 			"downloadsizeinbytes": "26860111",
 			"extractedsizeinbytes": "68473402"
@@ -37,7 +37,7 @@
 			"downloadsizeinbytes": "27742318",
 			"extractedsizeinbytes": "70381011"
 		},
-		"linux-x32": {
+		"linux-x86": {
 			"download": "https://raw.githubusercontent.com/OpenDistribution/od-gamelist/master/bin/Freedoom-linux-x32.zip",
 			"downloadsizeinbytes": "27670133",
 			"extractedsizeinbytes": "71165386"
